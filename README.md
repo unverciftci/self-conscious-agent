@@ -1,4 +1,4 @@
-# Self-Conscious Research Agent 🤖
+# Self-Conscious Research Agent 
 
 A demo implementation of a self-aware AI research agent that monitors its own state, performance, and knows when to ask for help.
 
@@ -79,7 +79,7 @@ Success Rate: 100.0%
 - ✅ Human feedback requests when struggling
 - ✅ Performance tracking across sessions
 - ✅ JSON state persistence
-- ✅ Lightweight (uses Qwen-0.6B model)
+- ✅ Lightweight (uses Qwen-0.5B model)
 
 ## Use Cases
 
@@ -90,7 +90,7 @@ Success Rate: 100.0%
 
 ## Model
 
-Uses [Qwen3-0.6B-Instruct](https://huggingface.co/Qwen/Qwen3-0.6B-Instruct) - lightweight enough for CPU/Colab while maintaining good performance.
+Uses [Qwen3-0.6B](https://huggingface.co/Qwen/Qwen3-0.6B) - lightweight enough for CPU/Colab while maintaining good performance.
 
 ## Customization
 
@@ -129,4 +129,3 @@ MIT - Free for research and educational use
 ---
 
 **Note**: This is a demonstration of self-conscious AI concepts. For production use, additional safety measures and robust error handling should be implemented.
-
