@@ -79,7 +79,7 @@ Success Rate: 100.0%
 - ✅ Human feedback requests when struggling
 - ✅ Performance tracking across sessions
 - ✅ JSON state persistence
-- ✅ Lightweight (uses Qwen-0.5B model)
+- ✅ Lightweight (uses Qwen-0.6B model)
 
 ## Use Cases
 
