@@ -79,7 +79,7 @@ Success Rate: 100.0%
 - ✅ Human feedback requests when struggling
 - ✅ Performance tracking across sessions
 - ✅ JSON state persistence
-- ✅ Lightweight (uses Qwen-0.5B model)
+- ✅ Lightweight (uses Qwen-0.6B model)
 
 ## Use Cases
 
@@ -90,7 +90,7 @@ Success Rate: 100.0%
 
 ## Model
 
-Uses [Qwen2.5-0.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct) - lightweight enough for CPU/Colab while maintaining good performance.
+Uses [Qwen3-0.6B-Instruct](https://huggingface.co/Qwen/Qwen3-0.6B-Instruct) - lightweight enough for CPU/Colab while maintaining good performance.
 
 ## Customization
 
